@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project_dino_react/static/css/main.e6c13ad2.css",
+    "main.js": "/project_dino_react/static/js/main.b7caf7b5.js",
+    "static/js/453.5fbf1962.chunk.js": "/project_dino_react/static/js/453.5fbf1962.chunk.js",
+    "index.html": "/project_dino_react/index.html",
+    "main.e6c13ad2.css.map": "/project_dino_react/static/css/main.e6c13ad2.css.map",
+    "main.b7caf7b5.js.map": "/project_dino_react/static/js/main.b7caf7b5.js.map",
+    "453.5fbf1962.chunk.js.map": "/project_dino_react/static/js/453.5fbf1962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b7caf7b5.js"
+  ]
+}
